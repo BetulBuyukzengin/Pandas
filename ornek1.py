@@ -2,7 +2,7 @@
 """
 dataset: https://www.kaggle.com/fazilbtopal/auto85
 auto.csv kullanarak,
-Her kolon için tanımlayıcı istatistiksel testlerini (min, max, std, median, mean) uygulayınız.
+Her kolon için tanımlayıcı istatistiksel testlerini (min, max, std, median, mean) uygulama.
 """
 
 import matplotlib.pyplot as plt
